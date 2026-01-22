@@ -10,12 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "jspdf": "^4.0.0",
+    "jspdf-autotable": "^5.0.7",
+    "lucide-react": "^0.263.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "lucide-react": "^0.263.1",
     "recharts": "^2.7.2",
-    "jspdf": "^2.5.1",
-    "jspdf-autotable": "^3.6.0",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
@@ -25,6 +25,6 @@
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.27",
     "tailwindcss": "^3.3.3",
-    "vite": "^4.4.5"
+    "vite": "^7.3.1"
   }
 }
